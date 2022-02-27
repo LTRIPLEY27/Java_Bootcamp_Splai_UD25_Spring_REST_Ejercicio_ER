@@ -79,7 +79,39 @@ Repositorio que aborda múltiples actividades en la aplicación de Spring Boot c
 
 ![image](https://user-images.githubusercontent.com/36207623/155892192-4aa830c5-b66c-4467-b7fb-f7d0688677ab.png)
 
+
+
+                                                                         Ejercicio 3
+                                                                        
+![image](https://user-images.githubusercontent.com/36207623/155893195-8a875f05-9e47-4c40-9925-5bd977a8b859.png)
+
+
   
+                                                                        Resultados:
+                                                                        
+  
+  - Base de Datos
+                                                                        
+                                                                                                                                               
+![image](https://user-images.githubusercontent.com/36207623/155893211-91e1cad5-a542-4584-8566-86b833c162e6.png)
+
+
+  
+  
+                                                                        CONSULTAS API
+                                                                        
+                                                                        
+   -  Registros Cajas
+
+![image](https://user-images.githubusercontent.com/36207623/155893243-0aca094f-3dce-48dd-995b-2b9ac4b978b2.png)
+
+
+  -  Eliminacion registro
+  
+  ![image](https://user-images.githubusercontent.com/36207623/155893412-35ac981b-e4f4-4dc5-a244-1466399cb3be.png)
+
+
+
            
                                                                         Ejercicio 4
                                                                         
