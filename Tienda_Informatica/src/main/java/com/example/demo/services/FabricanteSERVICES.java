@@ -20,6 +20,30 @@ public class FabricanteSERVICES implements IFabricanteSERVICES {//IMPLEMENTA LA 
 	public List<Fabricante> totalFabricante() {
 		
 		return fabricanteDAO.findAll();
+	}
+
+	@Override
+	public Fabricante guardaFabricantes(Fabricante fab) {
+		
+		return fabricanteDAO.save(fab);
+	}
+
+	@Override
+	public Fabricante actualizaFabricantes(Fabricante fab) {
+		
+		return fabricanteDAO.save(fab);
+	}
+
+	@Override
+	public Fabricante ubicaPorID(int id) {
+		
+		return fabricanteDAO.findById(id).get();
+	}
+
+	@Override
+	public void eliminaFabricante(int id) {
+		
+		fabricanteDAO.deleteById(id);
 	} 
 
 }

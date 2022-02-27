@@ -20,4 +20,24 @@ public class ArticuloSERVICES implements IArticuloSERVICES {
 		return articuloDAO.findAll();
 	}
 
+	@Override
+	public Articulo guardArticulo(Articulo arti) {
+		return articuloDAO.save(arti);
+	}
+
+	@Override
+	public Articulo actualizaArticulo(Articulo arti) {
+		return articuloDAO.save(arti);
+	}
+
+	@Override
+	public Articulo ubicaPorID(int id) {
+		return articuloDAO.findById(id).get();
+	}
+
+	@Override
+	public void eliminaArticulo(int id) {
+		articuloDAO.deleteById(id);
+	}
+
 }
