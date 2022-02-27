@@ -26,17 +26,12 @@ Repositorio que aborda múltiples actividades en la aplicación de Spring Boot c
   
   
                                                                         Resultados:
-                                                                        
+  
+  - Base de Datos
                                                                         
  ![image](https://user-images.githubusercontent.com/36207623/155891713-8dd08416-0e9b-47b2-9761-57c111936be0.png)
 
-
-                                                                        Base de Datos
-                                                                        
-                                                                        
-                                                                        
-
-  
+                                                    
   
                                                                         CONSULTAS API
                                                                         
@@ -61,15 +56,11 @@ Repositorio que aborda múltiples actividades en la aplicación de Spring Boot c
                                                                         
                                                                          Resultados:
                                                                         
-                                                                        
- ![image](https://user-images.githubusercontent.com/36207623/155891713-8dd08416-0e9b-47b2-9761-57c111936be0.png)
-
-
-                                                                        Base de Datos
-                                                                        
-                                                                        
+   -  Base de Datos           
+                                                                                                                         
                                                                         
 ![image](https://user-images.githubusercontent.com/36207623/155892021-ef89f4b1-d5fa-43fd-9ca4-0b57df48e336.png)
+
   
   
                                                                         CONSULTAS API
@@ -90,36 +81,47 @@ Repositorio que aborda múltiples actividades en la aplicación de Spring Boot c
 
   
            
-                                                                        Ejercicio 3
+                                                                        Ejercicio 4
                                                                         
-  ![image](https://user-images.githubusercontent.com/36207623/155892227-d76334e7-a449-45b5-b47a-0d9695b7d2ac.png)
+ ![image](https://user-images.githubusercontent.com/36207623/155892867-fc912870-eaff-454d-a9e7-14e21899974b.png)
+
   
                                                                         
-                                                                         Resultados:
+   
+                                                                        Resultados:
                                                                         
+  
+  - Base de Datos
                                                                         
-![image](https://user-images.githubusercontent.com/36207623/155892255-ab5cf74d-23b3-4592-9cfb-fdb07e2156a3.png)
+                                                                                                                                               
+![image](https://user-images.githubusercontent.com/36207623/155892902-dfeb8598-fa93-4c90-8056-81b6e644fba9.png)
 
-
-                                                                        Base de Datos
-                                                                        
-                                                                        
-                                                                        
-![image](https://user-images.githubusercontent.com/36207623/155892021-ef89f4b1-d5fa-43fd-9ca4-0b57df48e336.png)
   
   
                                                                         CONSULTAS API
                                                                         
                                                                         
-   - Total Registros Departamentos
+   -  Registros Peliculas por ID
 
-![image](https://user-images.githubusercontent.com/36207623/155892056-7f73be1e-a16c-4f5c-85b4-0850fd00bdee.png)
+![image](https://user-images.githubusercontent.com/36207623/155892964-c5cc0424-716b-4ab9-8d4f-2a975d7b9a83.png)
 
-   - Adición de nuevo registro
+
+
+   - Adición de registro
+
+
+![image](https://user-images.githubusercontent.com/36207623/155893044-400d5286-2a9a-453d-b28a-b99f512bbd1d.png)
+
+
+  - Edición de registro
+                                                                        
+  ![image](https://user-images.githubusercontent.com/36207623/155893093-e73d9591-c489-47e4-93e8-166673d228c8.png)
+
+  
+                                                                        
    
-   ![image](https://user-images.githubusercontent.com/36207623/155892151-071a3996-87c1-41ee-a260-51ae9d8f985e.png)
+                                    
+                                                                        
 
-
-  - Resultado
-
-![image](https://user-images.githubusercontent.com/36207623/155892192-4aa830c5-b66c-4467-b7fb-f7d0688677ab.png)
+                                                                        
+   
