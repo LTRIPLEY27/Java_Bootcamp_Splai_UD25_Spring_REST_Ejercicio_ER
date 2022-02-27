@@ -35,17 +35,21 @@ Repositorio que aborda múltiples actividades en la aplicación de Spring Boot c
                                                                         
                                                                         
                                                                         
-  ![image](https://user-images.githubusercontent.com/36207623/155891837-a5721a5d-2e5e-4b72-8a6f-be65e805d901.png)
+
   
   
                                                                         CONSULTAS API
                                                                         
                                                                         
    - Total Registros Fabricantes
+   
+   ![image](https://user-images.githubusercontent.com/36207623/155891837-a5721a5d-2e5e-4b72-8a6f-be65e805d901.png)
+   
+   - Total Registros Articulos 
 
 ![image](https://user-images.githubusercontent.com/36207623/155891887-10c79ac0-9799-45e5-aa76-b4dea5d968dd.png)
 
-   - Total Registros Fabricantes                            
+                           
                                             
                                                                         
                                                                       
