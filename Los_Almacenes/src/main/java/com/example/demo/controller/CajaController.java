@@ -38,7 +38,7 @@ public class CajaController {
 	}
 	
 	@PutMapping("/cajas/{num_referencia}/actualiza")
-	public Caja actualizaCaja(@PathVariable (name = "num_referencia") String num_referencia,Caja caja) {
+	public Caja actualizaCaja(@PathVariable (name = "num_referencia") String num_referencia, @RequestBody Caja caja) {
 		Caja cajaSEL = new Caja();
 		Caja cajaACTUALIZA = new Caja();
 		

@@ -43,7 +43,7 @@ public class EmpleadoController {
 	}
 	
 	@PutMapping("/empleados/{dni}/actualiza")
-	public Empleado actualizaEmpleado(@PathVariable (name = "dni") String dni,Empleado emple) {
+	public Empleado actualizaEmpleado(@PathVariable (name = "dni") String dni, @RequestBody Empleado emple) {
 		Empleado empleSEL = new Empleado();
 		Empleado empleACT = new Empleado();
 		

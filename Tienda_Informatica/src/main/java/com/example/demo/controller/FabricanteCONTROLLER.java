@@ -49,7 +49,7 @@ public class FabricanteCONTROLLER {
 	}
 	
 	@PutMapping("/fabricante/{id}/actualiza")
-	public Fabricante actualizaFabricante(@PathVariable (name = "id") int id, Fabricante fab) {
+	public Fabricante actualizaFabricante(@PathVariable (name = "id") int id, @RequestBody Fabricante fab) {
 		Fabricante fabSEL = new Fabricante();
 		Fabricante fabACTUALIZA = new Fabricante();
 		

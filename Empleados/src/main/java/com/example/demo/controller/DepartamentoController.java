@@ -38,7 +38,7 @@ public class DepartamentoController {
 	}
 	
 	@PutMapping("/departamento/{id}/actualiza")
-	public Departamento actualizaDepartamento(@PathVariable (name = "id") int id,Departamento depa) {
+	public Departamento actualizaDepartamento(@PathVariable (name = "id") int id, @RequestBody Departamento depa) {
 		Departamento deptSEL = new Departamento();
 		Departamento deptACTUAL = new Departamento();
 		

@@ -43,7 +43,7 @@ public class AlmacenController {
 	}
 	
 	@PutMapping("/almacenes/{id}/actualiza")
-	public Almacen actualizaAlmacen(@PathVariable (name = "id") int id, Almacen alma) {
+	public Almacen actualizaAlmacen(@PathVariable (name = "id") int id, @RequestBody Almacen alma) {
 		Almacen almaSEL = new Almacen();
 		Almacen almaACTUALIZA = new Almacen();
 		almaSEL = almaSERVICES.ubicaPorID(id);

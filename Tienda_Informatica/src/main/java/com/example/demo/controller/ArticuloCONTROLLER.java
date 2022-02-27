@@ -38,7 +38,7 @@ public class ArticuloCONTROLLER {
 	}
 	
 	@PutMapping("/articulos/{id}/actualiza")
-	public Articulo actualizaArticulo(@PathVariable (name = "id") int id,Articulo arti) {
+	public Articulo actualizaArticulo(@PathVariable (name = "id") int id, @RequestBody Articulo arti) {
 		Articulo artiSel = new Articulo();
 		Articulo artiActualizado = new Articulo();
 		
