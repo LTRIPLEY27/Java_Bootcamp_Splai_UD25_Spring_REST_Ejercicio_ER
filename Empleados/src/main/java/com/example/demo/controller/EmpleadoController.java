@@ -37,12 +37,12 @@ public class EmpleadoController {
 		return empleSERV.guardaEmpleado(emple);
 	}
 	
-	@GetMapping("/empleados/{id}")
+	@GetMapping("/empleados/{dni}")
 	public Empleado ubicaPorID(@PathVariable (name = "dni") String dni) {
 		return empleSERV.ubicaPorID(dni);
 	}
 	
-	@PutMapping("/empleados/{id}/actualiza")
+	@PutMapping("/empleados/{dni}/actualiza")
 	public Empleado actualizaEmpleado(@PathVariable (name = "dni") String dni,Empleado emple) {
 		Empleado empleSEL = new Empleado();
 		Empleado empleACT = new Empleado();
@@ -57,7 +57,7 @@ public class EmpleadoController {
 		return empleACT;
 	}
 	
-	@DeleteMapping("/empleados/{id}/elimina")
+	@DeleteMapping("/empleados/{dni}/elimina")
 	public void eliminaEmpleado(@PathVariable (name = "dni") String dni) {
 		empleSERV.eliminaEmpleado(dni);
 	}
